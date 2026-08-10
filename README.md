@@ -1,4 +1,4 @@
-**# LinOS
+# LinOS
 
 **Your computer understands you.**
 
@@ -238,4 +238,4 @@ Own Kernel
    ↓
 LinOS
 ```
-**
+
