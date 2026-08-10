@@ -1,0 +1,14 @@
+/target/
+/build/
+/dist/
+
+*.iso
+*.img
+*.bin
+*.elf
+
+*.tmp
+*.log
+
+.DS_Store
+.vscode/
